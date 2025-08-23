@@ -1,0 +1,30 @@
+[
+  {
+    "model": "DokiApp.DoctorProfile",
+    "pk": 1,
+    "fields": {
+      "user": 1
+    }
+  },
+  {
+    "model": "DokiApp.DoctorProfile",
+    "pk": 2,
+    "fields": {
+      "user": 2
+    }
+  },
+  {
+    "model": "DokiApp.DoctorProfile",
+    "pk": 3,
+    "fields": {
+      "user": 3
+    }
+  },
+  {
+    "model": "DokiApp.DoctorProfile",
+    "pk": 4,
+    "fields": {
+      "user": 4
+    }
+  }
+]

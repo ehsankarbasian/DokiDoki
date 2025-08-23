@@ -1,0 +1,52 @@
+[
+  {
+    "model": "DokiApp.User",
+    "pk": 1,
+    "fields": {
+      "username": "DRE",
+      "fullname": "DRE",
+      "first_name": "Andre",
+      "last_name": "Romelle Young",
+      "is_doctor": true,
+      "email": "dre@gmail.com",
+      "profile_picture_url": "default.png"
+    }
+  },
+  {
+    "model": "DokiApp.User",
+    "pk": 2,
+    "fields": {
+      "username": "CJ",
+      "fullname": "CJ",
+      "first_name": "Carl",
+      "last_name": "Johnson",
+      "is_doctor": true,
+      "email": "cj@gmail.com"
+    }
+  },
+  {
+    "model": "DokiApp.User",
+    "pk": 3,
+    "fields": {
+      "username": "OG LOC",
+      "fullname": "OG LOC",
+      "sex": "U",
+      "first_name": "Jeffry",
+      "last_name": "the gangsta",
+      "is_doctor": true,
+      "email": "og.loc@gmail.com"
+    }
+  },
+  {
+    "model": "DokiApp.User",
+    "pk": 4,
+    "fields": {
+      "username": "Ali",
+      "fullname": "Ali sadeghi",
+      "first_name": "Toosh mooze",
+      "last_name": "mooz!",
+      "is_doctor": true,
+      "email": "ali@gmail.com"
+    }
+  }
+]
