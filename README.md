@@ -23,8 +23,6 @@ python manage.py runserver
 ```
 
 # Our Team
-- Shayan Mousavinia (ShAmoN)
-- Mohammad Mehdi Talebi (hypothalamus)
 - Ehsan Karbasian
-- Mohammad Rahmani
 - Ahmadrezadl
+- Mohammad Rahmani
